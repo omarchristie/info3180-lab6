@@ -4,4 +4,22 @@ body {
 
 footer  {
     padding-top: 20px;
+    clear: left;
+}
+.thumbnail{
+    height: 150px;
+    width: 150px;
+}
+.news__item{
+    height: 500px;
+    width: 30%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: grey;
+    border-top-color: green;
+    margin: 15px;
+    float: left;
+}
+ul {
+  list-style-type: none;
 }
